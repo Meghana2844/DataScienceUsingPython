@@ -10,3 +10,7 @@ This Jupyter notebook provides a comprehensive guide on how to leverage NumPy an
 
 **Best Practices:** Tips and tricks for optimizing performance and writing clean, efficient code using NumPy and Pandas.
 Whether you're new to data science or looking to deepen your understanding of these essential libraries, this notebook serves as a valuable resource.
+
+
+**To connect with me in linkedin**
+[My linkedin profile](https://www.linkedin.com/in/meghana-andhavarapu-4b88a6244/)
